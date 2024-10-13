@@ -6,4 +6,8 @@ import { Injectable } from '@angular/core';
 export class DateChangeService {
 
   constructor() { }
+
+  logMessage(msg:any){
+    console.log('this is from angular library',msg)
+  }
 }
