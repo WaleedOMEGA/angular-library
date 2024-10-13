@@ -3,4 +3,4 @@
  */
 
 export * from './lib/date-change.service';
-export * from './lib/date-change.component';
+// export * from './lib/date-change.component';
